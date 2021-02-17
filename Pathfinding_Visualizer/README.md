@@ -28,7 +28,8 @@ $ python main.py
 - Select a **ALGORITHM** and **Visualize**
 
 ## Demo
-
+### BFS
+<https://github.com/Aditya-R-Chakole/Algorithm_Visualizer/blob/main/Pathfinding_Visualizer/Gifs/BFS.gif>
 
 
 
