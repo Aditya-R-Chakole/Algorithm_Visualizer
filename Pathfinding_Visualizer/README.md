@@ -39,7 +39,8 @@ $ python main.py
 ### Recursive Backtracking method for Maze Generation
 ![RB](https://user-images.githubusercontent.com/57232967/108252725-fbd83280-717e-11eb-98ba-d316037cc95b.gif)
 
-
+## License
+MIT
 
 
 
