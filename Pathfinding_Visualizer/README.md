@@ -29,7 +29,7 @@ $ python main.py
 
 ## Demo
 ### BFS
-<https://github.com/Aditya-R-Chakole/Algorithm_Visualizer/blob/main/Pathfinding_Visualizer/Gifs/BFS.gif>
+![BFS](https://user-images.githubusercontent.com/57232967/108251997-207fda80-717e-11eb-8acd-4fb3992fef38.gif)
 
 
 
