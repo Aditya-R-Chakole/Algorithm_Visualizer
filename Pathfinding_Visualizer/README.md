@@ -40,7 +40,7 @@ $ python main.py
 ![RB](https://user-images.githubusercontent.com/57232967/108252725-fbd83280-717e-11eb-98ba-d316037cc95b.gif)
 
 ## License
-MIT
+[MIT]
 
 
 
@@ -52,3 +52,4 @@ MIT
 [A* Search]: <https://en.wikipedia.org/wiki/A*_search_algorithm>
 [Recursive division method]: <https://en.wikipedia.org/wiki/Maze_generation_algorithm>
 [Recursive Backtracking method]: <https://en.wikipedia.org/wiki/Maze_generation_algorithm>
+[MIT]: <https://github.com/Aditya-R-Chakole/Algorithm_Visualizer/blob/main/LICENSE>
