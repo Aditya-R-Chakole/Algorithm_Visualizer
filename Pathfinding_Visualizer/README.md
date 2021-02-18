@@ -29,19 +29,22 @@ $ python main.py
 
 ## Demo
 ### Breadth-first search
-![BFS](https://user-images.githubusercontent.com/57232967/108251997-207fda80-717e-11eb-8acd-4fb3992fef38.gif)
+![Bfs](https://user-images.githubusercontent.com/57232967/108347241-4d77d000-7206-11eb-9efa-c68617511ede.gif)
+
 ### Dijkstra's Algorithm
-![Dijkstra](https://user-images.githubusercontent.com/57232967/108252165-52913c80-717e-11eb-9658-40cd300108c1.gif)
+![Dijkstra](https://user-images.githubusercontent.com/57232967/108347296-5c5e8280-7206-11eb-97fd-1db082c16981.gif)
+
 ### A* Search
-![A_Star](https://user-images.githubusercontent.com/57232967/108252206-6341b280-717e-11eb-9e81-008a901fc36b.gif)
+![A_star](https://user-images.githubusercontent.com/57232967/108347368-6c766200-7206-11eb-92bb-1ca34996c2ac.gif)
+
 ### Recursive Division method for Maze Generation
-![RD](https://user-images.githubusercontent.com/57232967/108252584-d3e8cf00-717e-11eb-9c7f-66b1196d06ec.gif)
+![RD_Astar](https://user-images.githubusercontent.com/57232967/108347442-8152f580-7206-11eb-918a-4303835a5c28.gif)
+
 ### Recursive Backtracking method for Maze Generation
-![RB](https://user-images.githubusercontent.com/57232967/108252725-fbd83280-717e-11eb-98ba-d316037cc95b.gif)
+![RB_Astar](https://user-images.githubusercontent.com/57232967/108347476-8adc5d80-7206-11eb-8916-47ca343cd5b8.gif)
 
 ## License
 [MIT]
-
 
 [Breadth-first search]: <https://en.wikipedia.org/wiki/Breadth-first_search>
 [Depth-first search]: <https://en.wikipedia.org/wiki/Depth-first_search>
