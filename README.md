@@ -1,8 +1,8 @@
-# Algorithm_Visualizer
+# Algorithm Visualizer
 ## Pathfinding and Maze Generating Algorithm Visualizer
 
 ### Introduction 
-The Pathfinding and Maze Generating Algorithm Visualizer supports 4 pathfinding algorithms and 3 maze generating algorithms which are inplemented in python using pygame and pygame_gui module.  
+The Pathfinding and Maze Generating Algorithm Visualizer supports 4 pathfinding algorithms and 3 maze generating algorithms which are implemented in python using pygame and pygame_gui module.  
 - **Pathfinding Algorithms** : [Breadth-first search], [Depth-first search], [Dijkstra's Algorithm], [A* Search]
 - **Maze Generating Algorithm** : Basic Randomized maze generator, [Recursive division method], [Recursive Backtracking method]
 ### Table of Content
