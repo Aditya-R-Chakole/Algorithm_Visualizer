@@ -1,0 +1,70 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+            "normal_bg":"#A1F0F2"
+        }
+    },
+    "button":
+    {
+        "colours":
+        {
+            "normal_bg": "#1E3A67",
+            "normal_text": "#FFFFFF",
+            "normal_border": "#1E3A67",
+            "hovered_bg": "#000000",
+            "hovered_border": "#000000",
+            "hovered_text": "#FFFFFF"
+        },
+        "font":
+        {
+            "regular_path": "Montserrat-Regular.ttf",
+            "name": "Montserrat-Regular",
+            "size": "17",
+            "bold": "0",
+            "italic": "0"
+        }
+    },
+    "text_box":
+     {
+         "colours":
+         {
+            "dark_bg":"#324E7B",
+            "normal_border": "#000000",
+            "normal_text": "#000000"
+         },
+        "font":
+        {
+            "regular_path": "Montserrat-Regular.ttf",
+            "name": "Montserrat-SemiBold",
+            "size": "17",
+            "bold": "0",
+            "italic": "0"
+        }
+    },
+    "drop_down_menu":
+     {
+         "misc":
+        {
+            "expand_direction": "down"
+        },
+
+        "colours":
+        {
+            "normal_bg": "#1E3A67",
+            "normal_border":"#1E3A67",
+            "hovered_bg": "#000000"
+        }
+     },
+    "selection_list":
+    {
+        "misc":
+        {
+            "shape": "rectangle",
+            "border_width": "1",
+            "shadow_width": "1",
+            "list_item_height": "30"
+        }
+    }
+}
